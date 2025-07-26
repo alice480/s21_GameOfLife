@@ -9,4 +9,4 @@
 - Предусмотрена начальная инициализация состояния «игры» через stdin.
 - Подготовлены 5 файлов с начальным состоянием для быстрого запуска и инициализации через перенаправление ввода.
 
-![Пример поля]([http://url/to/img.png](https://github.com/alice480/s21_GameOfLife/blob/main/game_of_life.jpg))
+![Игра "Жизнь"](https://github.com/alice480/s21_GameOfLife/blob/main/game_of_life.jpg?raw=true)
